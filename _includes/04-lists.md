@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Favourite places to eat
+  * Barometer
+  * Hippie at Heart
+  * Nitrobuzz
+2. Favourite movies
+  * Tenet
